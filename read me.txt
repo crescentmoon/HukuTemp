@@ -1,0 +1,33 @@
+◆Ver17.3[2013.08.31]
+
+◆導入方法
+	1.使いたいmltを選んで、AAEditのHukuTempフォルダに入れる
+
+	2.AAEditを起動
+
+	3.[ツール（T）]→[オプション（O）]→[Template]
+
+	4.[複数行]の、紙が重なってるマークのボタンを押す
+
+	5.HukuTempフォルダにHukuTabs.txtが出力されるので、開いて自分の好みに並べ替える
+
+	6.AAEditを再起動
+
+	7.完了
+
+
+【やる夫】やる夫スレ用MLT収集所 Ver14.0【AA録】
+http://jbbs.livedoor.jp/bbs/read.cgi/otaku/12973/1363952350/
+
+旧まとめ：やる夫AA録 by ◆http//khws氏（更新停止）
+http://yaruo.my-sv.net/
+
+新まとめ1：AA録やる夫 by ◆YaRuO/BN5c氏 ほか
+http://www37.atwiki.jp/aarokuyaruo/
+
+新まとめ2：やる夫AA録2 by ◆booK.4Ti8w氏
+http://yaruo.b4t.jp/
+
+MLT ZIPまとめ by ◆WzxNyO0VrA氏（前）
+MLT ZIPまとめ by ◆booK.4Ti8w氏（仮）
+MLT ZIPまとめ by ◆SGKGFzNwGA
