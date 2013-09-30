@@ -1,4 +1,4 @@
-◆Ver17.3[2013.08.31]
+◆Ver17.4[2013.09.30]
 
 ◆導入方法
 	1.使いたいmltを選んで、AAEditのHukuTempフォルダに入れる
@@ -31,3 +31,4 @@ http://yaruo.b4t.jp/
 MLT ZIPまとめ by ◆WzxNyO0VrA氏（前）
 MLT ZIPまとめ by ◆booK.4Ti8w氏（仮）
 MLT ZIPまとめ by ◆SGKGFzNwGA
+　　　 　 　 and　96 ◆8.RsK7i3U6氏
