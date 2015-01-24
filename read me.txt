@@ -1,4 +1,4 @@
-◆Ver18.8[2014.12.07]
+◆Ver18.9[2015.01.24]
 
 ◆導入方法
 	1.使いたいmltを選んで、AAEditのHukuTempフォルダに入れる
@@ -29,7 +29,10 @@ http://www37.atwiki.jp/aarokuyaruo/
 http://yaruo.b4t.jp/
 
 AAリポジトリ
+正式版：
 http://aarepo.dip.jp/svn/aarepo/
+編集用：
+http://aarepo.dip.jp/svn-test/
 
 MLT ZIPまとめ by ◆WzxNyO0VrA氏（前）
 MLT ZIPまとめ by ◆booK.4Ti8w氏（仮）
