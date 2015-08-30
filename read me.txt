@@ -1,4 +1,4 @@
-◆Ver19.5[2015.07.20]
+◆Ver19.6[2015.08.30]
 
 ◆導入方法
 	1.使いたいmltを選んで、AAEditのHukuTempフォルダに入れる
@@ -16,8 +16,8 @@
 	7.完了
 
 
-【やる夫】やる夫スレ用MLT収集所 Ver19.0【AA録】
-http://jbbs.shitaraba.net/bbs/read.cgi/otaku/12973/1426940137/
+【やる夫】やる夫スレ用MLT収集所 Ver20.0【AA録】
+http://jbbs.shitaraba.net/bbs/read.cgi/otaku/12973/1437431380/
 
 旧まとめ：やる夫AA録 by ◆http//khws氏（更新停止）
 http://yaruo.my-sv.net/
@@ -27,6 +27,9 @@ http://www37.atwiki.jp/aarokuyaruo/
 
 新まとめ2：やる夫AA録2 by ◆booK.4Ti8w氏
 http://yaruo.b4t.jp/
+
+AAMZ Viewer
+http://aa.yaruyomi.com/
 
 AAリポジトリ
 正式版：
