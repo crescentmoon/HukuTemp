@@ -1,4 +1,4 @@
-◆Ver20.7[2016.07.31]
+◆Ver20.8[2016.09.05]
 
 ◆導入方法
 	1.使いたいmltを選んで、AAEditのHukuTempフォルダに入れる
@@ -25,7 +25,7 @@ http://yaruo.my-sv.net/
 新まとめ1：AA録やる夫 by ◆YaRuO/BN5c氏 ほか
 http://www37.atwiki.jp/aarokuyaruo/
 
-新まとめ2：やる夫AA録2 by ◆booK.4Ti8w氏
+新まとめ2：やる夫AA録2 by ◆booK.4Ti8w氏（2015年4月より更新停止中）
 http://yaruo.b4t.jp/
 
 AAMZ Viewer
